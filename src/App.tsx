@@ -3,7 +3,7 @@ import Page1 from "./Pages/Page1"
 import Page2 from "./Pages/Page2"
 import Page3 from "./Pages/Page3"
 import { useEffect, useState } from "react"
-import toast, { Toaster } from "react-hot-toast"
+import  { Toaster } from "react-hot-toast"
 
 interface UserDetails {
 
