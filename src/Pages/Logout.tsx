@@ -9,7 +9,7 @@ function Logout() {
         window.location.reload()
     }
   return (
-    <div style={{height: "100vh", width: "2vw", color:"#9ad9ff", display:"flex", alignItems:"flex-end"}}>
+    <div style={{ color:"#9ad9ff", display:"flex", alignItems:"flex-end"}}>
         
       <IconLogout onClick={handleOnclick} style={{cursor:"pointer"}}/>
     </div>
